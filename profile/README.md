@@ -12,6 +12,10 @@
   <a href="https://github.com/HabibiAssistant/habibi"><strong>Habibi runtime</strong></a>
   ·
   <a href="https://github.com/HabibiAssistant/extensions"><strong>Official extensions</strong></a>
+  ·
+  <a href="https://github.com/HabibiAssistant/habibi/blob/main/ROADMAP.md"><strong>Roadmap</strong></a>
+  ·
+  <a href="https://github.com/HabibiAssistant/habibi/blob/main/SECURITY.md"><strong>Security</strong></a>
 </p>
 
 ## Projects
